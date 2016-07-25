@@ -1,0 +1,4 @@
+{
+    "restructuredtext.confPath" : "aspnet/conf.py",
+    "restructuredtext.builtDocumentationPath" : "aspnet/_build/html"
+}
